@@ -21,7 +21,7 @@ Comprehensive toolkit for diagnosing and validating your PyTorch environment, en
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/pytorch-env-checker.git
+    git clone https://github.com/JiseokSeo/pytorch-env-checker.git
     cd pytorch-env-checker
     ```
 
@@ -60,7 +60,7 @@ PyTorch 환경을 진단하고 검증하기 위한 종합 도구 키트입니다
 
 1. 레포지토리 클론:
     ```bash
-    git clone https://github.com/yourusername/pytorch-env-checker.git
+    git clone https://github.com/JiseokSeo/pytorch-env-checker.git
     cd pytorch-env-checker
     ```
 
