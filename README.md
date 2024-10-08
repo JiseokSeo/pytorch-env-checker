@@ -1,2 +1,9 @@
-# pytorch-env-checker
-The purpose is to ensure that your environment is set up correctly before you perform any learning. 학습을 수행하기 전에 환경 설정이 올바르게 되어 있는지 확인하는 데 목적이 있습니다.
+# English Guide
+## Features
+Dependency Checks: Verifies the installation and minimum required versions of essential packages.
+System Information: Displays the current operating system and Python version.
+Hardware Checks: Confirms the availability of CUDA, cuDNN, and GPUs.
+Multiprocessing Support: Checks if multiprocessing is available.
+Distributed Backend Availability: Determines if the appropriate backend (NCCL or Gloo) is available for distributed training.
+Distributed Training Test: Performs a simple distributed tensor operation to ensure that distributed training is functional.
+Custom Dependency File Support: Allows you to specify a requirements.txt file to check additional dependencies.
